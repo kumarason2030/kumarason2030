@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumarason2030
 - 👀 I’m interested in competeitive programming
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me ...
 - 😄 Pronouns: they/them
