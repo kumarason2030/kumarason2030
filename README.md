@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kumarason2030
 - 👀 I’m interested in competeitive programming
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning full stack development,ai ml,
 - 💞️ I’m looking to collaborate with other developers
-- 📫 How to reach me ...
+- 📫 How to reach me on my email-petrifier1995@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: i love learning bizzare facts
 
